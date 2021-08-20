@@ -19,7 +19,7 @@ function ImgDog() {
       item.innerHTML =`<img src= ${ data.message} />` 
       list.append(item)
       }) .catch(error=>{
-        console.error("Error:", error)
+        console.log(error)
     })
 
 
