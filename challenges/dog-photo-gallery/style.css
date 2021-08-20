@@ -1,0 +1,25 @@
+ul li{
+    list-style: none;
+}
+
+button {
+
+    border: none;
+    display: block;
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px auto;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+img{
+    display: block;
+    margin: 10px auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
